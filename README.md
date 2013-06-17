@@ -5,7 +5,9 @@ RemotePlayer
 
 #项目简介
 
-* Remote Player是一款可以让Win8平板利用重力感应当作游戏手柄，控制PC玩赛车游戏的应用。分为Win8客户端和PC服务端两部分。
+* Remote Player是一款可以让Win8平板利用重力感应当作游戏手柄，控制PC玩赛车游戏的应用。
+
+* 分为Win8客户端和PC服务端两部分。
 
 ***
 
