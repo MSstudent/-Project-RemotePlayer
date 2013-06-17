@@ -3,11 +3,20 @@ RemotePlayer
 
 >本项目在西安电子科技大学 OpenM.S.活动中获得最佳设计奖
 
+![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample-server.png)
+
+![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample-1.png)
+
+![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample-2.png)
+
 #项目简介
 
 * Remote Player是一款可以让Win8平板利用重力感应当作游戏手柄，控制PC玩赛车游戏的应用。
 
 * 分为Win8客户端和PC服务端两部分。
+
+* 注意：本项目分为两部分，RemotePlayer为Windows 8客户端，RemotePlayerServer为Windows 服务端。 
+
 
 ***
 
