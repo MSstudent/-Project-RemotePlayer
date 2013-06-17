@@ -1,0 +1,15 @@
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\bin\Debug\RemotePlayerServer.exe.config
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\RemotePlayerServer.csprojResolveAssemblyReference.cache
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\MainWindow.baml
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\MainWindow.g.cs
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\App.g.cs
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\RemotePlayerServer_MarkupCompile.cache
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\RemotePlayerServer.g.resources
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\RemotePlayerServer.Properties.Resources.resources
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\RemotePlayerServer.csproj.GenerateResource.Cache
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\bin\Debug\RemotePlayerServer.exe
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\bin\Debug\RemotePlayerServer.pdb
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\bin\Debug\TestApiCore.dll
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\bin\Debug\TestApiWpf.dll
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\RemotePlayerServer.exe
+C:\Users\Slim\Documents\Study\OpenMS\RemotePlayerServer\RemotePlayerServer\obj\Debug\RemotePlayerServer.pdb
