@@ -5,9 +5,9 @@ RemotePlayer
 
 ![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample-server.png)
 
-![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample-1.jpg)
+![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample1.jpg)
 
-![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample-2.jpg)
+![Image](http://github.com/MSstudent/-Project-RemotePlayer/raw/master/sample2.jpg)
 
 #项目简介
 
